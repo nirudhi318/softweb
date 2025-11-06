@@ -143,12 +143,12 @@ Publish the website in the given URL.
   <section class="gallery">
     <h2>Delicious Moments Captured</h2>
     <div class="gallery-grid">
-      <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800" alt="Pasta Dish">
-      <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800" alt="Fresh Salad">
-      <img src="https://images.unsplash.com/photo-1594007654729-407eedc4be65?w=800" alt="Pizza">
-      <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800" alt="Burger">
-      <img src="https://images.unsplash.com/photo-1551024601-bec78aea704b?w=800" alt="Dessert">
-      <img src="https://images.unsplash.com/photo-1551782450-a2132b4ba21d?w=800" alt="Grilled Chicken">
+      <img src="pd.jpg" alt="Pasta Dish">
+      <img src="s.jpg" alt="Fresh Salad">
+      <img src="p.jpg" alt="Pizza">
+      <img src="b.jpg" alt="Burger">
+      <img src="d.jpg" alt="Dessert">
+      <img src="c.jpg" alt="Grilled Chicken">
     </div>
   </section>
 
@@ -244,7 +244,6 @@ Publish the website in the given URL.
 </html>
 
 #style.css
-
 
 /* ====== General Styles ====== */
 body {
