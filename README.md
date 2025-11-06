@@ -420,7 +420,7 @@ footer {
 ## OUTPUT:
 ![alt text](<home page.png>)
 ![alt text](<menu page.png>)
-![alt text](<home page.png>)
+![alt text](<gallery page.png>)
 ![alt text](<about page.png>)
 ![alt text](<contact page.png>)
 
